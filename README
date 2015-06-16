@@ -106,7 +106,7 @@ For Red Hat / Centos you will try some other approach similar to the above.
 
 To build:
 
-   qmake maxview.pro
+   qmake paperman.pro
    make
 
 
@@ -119,7 +119,7 @@ Qmake is free software from Trolltech ASA.
 
 then you will need to force QT4:
 
-   qmake-qt4 maxview.pro
+   qmake-qt4 paperman.pro
    make
 
 
